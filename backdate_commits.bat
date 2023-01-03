@@ -1,6 +1,6 @@
 @echo off
 REM Navigate to the repository directory
-cd /d "C:\Users\reaper\Downloads\comm\commit"
+cd /d "C:\Users\reaper\Downloads\newcomi\twitch12"
 
 REM Enable delayed expansion so variables update properly inside loops
 setlocal enableextensions enabledelayedexpansion
